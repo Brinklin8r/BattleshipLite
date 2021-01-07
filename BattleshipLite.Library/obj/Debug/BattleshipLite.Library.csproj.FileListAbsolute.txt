@@ -1,6 +1,12 @@
-C:\Users\brink\source\Repos\BattleshipLite\BattleshipLite.Library\bin\Debug\BattleshipLite.Library.dll
-C:\Users\brink\source\Repos\BattleshipLite\BattleshipLite.Library\bin\Debug\BattleshipLite.Library.pdb
-C:\Users\brink\source\Repos\BattleshipLite\BattleshipLite.Library\obj\Debug\BattleshipLite.Library.csprojAssemblyReference.cache
-C:\Users\brink\source\Repos\BattleshipLite\BattleshipLite.Library\obj\Debug\BattleshipLite.Library.csproj.CoreCompileInputs.cache
-C:\Users\brink\source\Repos\BattleshipLite\BattleshipLite.Library\obj\Debug\BattleshipLite.Library.dll
-C:\Users\brink\source\Repos\BattleshipLite\BattleshipLite.Library\obj\Debug\BattleshipLite.Library.pdb
+C:\Users\Christopher.Brinkley\Source\Repos\BattleshipLite\BattleshipLite.Library\bin\Debug\BattleshipLite.Library.dll
+C:\Users\Christopher.Brinkley\Source\Repos\BattleshipLite\BattleshipLite.Library\bin\Debug\BattleshipLite.Library.pdb
+C:\Users\Christopher.Brinkley\Source\Repos\BattleshipLite\BattleshipLite.Library\obj\Debug\BattleshipLite.Library.csprojAssemblyReference.cache
+C:\Users\Christopher.Brinkley\Source\Repos\BattleshipLite\BattleshipLite.Library\obj\Debug\BattleshipLite.Library.csproj.CoreCompileInputs.cache
+C:\Users\Christopher.Brinkley\Source\Repos\BattleshipLite\BattleshipLite.Library\obj\Debug\BattleshipLite.Library.dll
+C:\Users\Christopher.Brinkley\Source\Repos\BattleshipLite\BattleshipLite.Library\obj\Debug\BattleshipLite.Library.pdb
+C:\Brinks Stuff\repos\Brink\BattleshipLite\BattleshipLite.Library\bin\Debug\BattleshipLite.Library.dll
+C:\Brinks Stuff\repos\Brink\BattleshipLite\BattleshipLite.Library\bin\Debug\BattleshipLite.Library.pdb
+C:\Brinks Stuff\repos\Brink\BattleshipLite\BattleshipLite.Library\obj\Debug\BattleshipLite.Library.csprojAssemblyReference.cache
+C:\Brinks Stuff\repos\Brink\BattleshipLite\BattleshipLite.Library\obj\Debug\BattleshipLite.Library.csproj.CoreCompileInputs.cache
+C:\Brinks Stuff\repos\Brink\BattleshipLite\BattleshipLite.Library\obj\Debug\BattleshipLite.Library.dll
+C:\Brinks Stuff\repos\Brink\BattleshipLite\BattleshipLite.Library\obj\Debug\BattleshipLite.Library.pdb

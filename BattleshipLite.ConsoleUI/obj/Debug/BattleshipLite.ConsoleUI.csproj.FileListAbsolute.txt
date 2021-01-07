@@ -1,10 +1,20 @@
-C:\Users\brink\source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\bin\Debug\BattleshipLite.ConsoleUI.exe.config
-C:\Users\brink\source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\bin\Debug\BattleshipLite.ConsoleUI.exe
-C:\Users\brink\source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\bin\Debug\BattleshipLite.ConsoleUI.pdb
-C:\Users\brink\source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\obj\Debug\BattleshipLite.ConsoleUI.csprojAssemblyReference.cache
-C:\Users\brink\source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\obj\Debug\BattleshipLite.ConsoleUI.csproj.CoreCompileInputs.cache
-C:\Users\brink\source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\obj\Debug\BattleshipLite.ConsoleUI.exe
-C:\Users\brink\source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\obj\Debug\BattleshipLite.ConsoleUI.pdb
-C:\Users\brink\source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\bin\Debug\BattleshipLite.Library.dll
-C:\Users\brink\source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\bin\Debug\BattleshipLite.Library.pdb
-C:\Users\brink\source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\obj\Debug\BattleshipLite.ConsoleUI.csproj.CopyComplete
+C:\Users\Christopher.Brinkley\Source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\bin\Debug\BattleshipLite.Library.dll
+C:\Users\Christopher.Brinkley\Source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\bin\Debug\BattleshipLite.Library.pdb
+C:\Users\Christopher.Brinkley\Source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\obj\Debug\BattleshipLite.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Christopher.Brinkley\Source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\obj\Debug\BattleshipLite.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Christopher.Brinkley\Source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\obj\Debug\BattleshipLite.ConsoleUI.csproj.CopyComplete
+C:\Users\Christopher.Brinkley\Source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\bin\Debug\BattleshipLite.ConsoleUI.exe.config
+C:\Users\Christopher.Brinkley\Source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\bin\Debug\BattleshipLite.ConsoleUI.exe
+C:\Users\Christopher.Brinkley\Source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\bin\Debug\BattleshipLite.ConsoleUI.pdb
+C:\Users\Christopher.Brinkley\Source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\obj\Debug\BattleshipLite.ConsoleUI.exe
+C:\Users\Christopher.Brinkley\Source\Repos\BattleshipLite\BattleshipLite.ConsoleUI\obj\Debug\BattleshipLite.ConsoleUI.pdb
+C:\Brinks Stuff\repos\Brink\BattleshipLite\BattleshipLite.ConsoleUI\bin\Debug\BattleshipLite.ConsoleUI.exe.config
+C:\Brinks Stuff\repos\Brink\BattleshipLite\BattleshipLite.ConsoleUI\bin\Debug\BattleshipLite.ConsoleUI.exe
+C:\Brinks Stuff\repos\Brink\BattleshipLite\BattleshipLite.ConsoleUI\bin\Debug\BattleshipLite.ConsoleUI.pdb
+C:\Brinks Stuff\repos\Brink\BattleshipLite\BattleshipLite.ConsoleUI\bin\Debug\BattleshipLite.Library.dll
+C:\Brinks Stuff\repos\Brink\BattleshipLite\BattleshipLite.ConsoleUI\bin\Debug\BattleshipLite.Library.pdb
+C:\Brinks Stuff\repos\Brink\BattleshipLite\BattleshipLite.ConsoleUI\obj\Debug\BattleshipLite.ConsoleUI.csprojAssemblyReference.cache
+C:\Brinks Stuff\repos\Brink\BattleshipLite\BattleshipLite.ConsoleUI\obj\Debug\BattleshipLite.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Brinks Stuff\repos\Brink\BattleshipLite\BattleshipLite.ConsoleUI\obj\Debug\BattleshipLite.ConsoleUI.csproj.CopyComplete
+C:\Brinks Stuff\repos\Brink\BattleshipLite\BattleshipLite.ConsoleUI\obj\Debug\BattleshipLite.ConsoleUI.exe
+C:\Brinks Stuff\repos\Brink\BattleshipLite\BattleshipLite.ConsoleUI\obj\Debug\BattleshipLite.ConsoleUI.pdb
